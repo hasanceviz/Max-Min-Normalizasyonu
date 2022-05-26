@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\bin\Debug\netcoreapp2.1\MinMaxNormalizasyon.deps.json
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\bin\Debug\netcoreapp2.1\MinMaxNormalizasyon.runtimeconfig.json
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\bin\Debug\netcoreapp2.1\MinMaxNormalizasyon.runtimeconfig.dev.json
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\bin\Debug\netcoreapp2.1\MinMaxNormalizasyon.dll
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\bin\Debug\netcoreapp2.1\MinMaxNormalizasyon.pdb
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\obj\Debug\netcoreapp2.1\MinMaxNormalizasyon.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\obj\Debug\netcoreapp2.1\MinMaxNormalizasyon.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\obj\Debug\netcoreapp2.1\MinMaxNormalizasyon.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\obj\Debug\netcoreapp2.1\MinMaxNormalizasyon.AssemblyInfo.cs
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\obj\Debug\netcoreapp2.1\MinMaxNormalizasyon.dll
+C:\Users\pc\source\repos\MinMaxNormalizasyon\MinMaxNormalizasyon\obj\Debug\netcoreapp2.1\MinMaxNormalizasyon.pdb
